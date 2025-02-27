@@ -34,7 +34,7 @@ build=${AUTOBUILD_BUILD_ID:=0}
 echo "1.0" > "$stage/VERSION.txt"
 
 case "$AUTOBUILD_PLATFORM" in
-    common*)
+    *)
 
         mkdir -p "$stage/js"
         mkdir -p "$stage/LICENSES"
