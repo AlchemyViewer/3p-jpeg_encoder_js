@@ -5,14 +5,14 @@
     <map>
       <key>canonical_repo</key>
       <string>https://github.com/AlchemyViewer/3p-jpeg_encoder_js</string>
+      <key>copyright</key>
+      <string>Andreas Ritter, www.bytestrom.eu, 11/2009</string>
       <key>license</key>
       <string>NONE</string>
       <key>license_file</key>
       <string>LICENSES/JPEG_ENCODER_BASIC_LICENSE.txt</string>
       <key>name</key>
       <string>jpegencoderbasic</string>
-      <key>copyright</key>
-      <string>Andreas Ritter, www.bytestrom.eu, 11/2009</string>
       <key>platforms</key>
       <map>
         <key>common</key>
